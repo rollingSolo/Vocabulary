@@ -1,6 +1,6 @@
 Words:
 
-date - "свидание"
+date - свидание
 wierd - странно
 tie - завязывать
 familiar - знакомый, похожий
@@ -15,6 +15,13 @@ thats how - вот как, таким образом
 unless - только если
 hangover - похмелье
 sophisticated - утонченный, сложный
+otherwise - в противном случае
+issues - проблема, причина
+whose - чей
+pillow - подушка
+belong - принадлежать
+to suggest - предложить
+
 
 
 
@@ -23,23 +30,24 @@ sophisticated - утонченный, сложный
 
 Phrases:
 
-in my case - в моем случаи
+in my case - в моем случае
 it matters - это важно
 all of a sudden  - вдруг
 i wish i could, but i dont want to - я бы хотел, только неохота
 how did you get through it - как ты с этим справился
 it doesn't make much of a difference - Это не имеет большого значения(никто и не заметит)
 stay out of - держись подальше от 
-
 i'm trained for nothing - я ничего не умею
 i was laughed out - надо мной посмеялись, был осмеян
 being on your own - самостоятельно
 split it up - разделить
 you probably didn't know this - возможно ты не знал
+are you through with that? - ты с этим справился?(ты закончил?)
+calm down - успокойся
 
 
 
 
 
 
-Other:
+
