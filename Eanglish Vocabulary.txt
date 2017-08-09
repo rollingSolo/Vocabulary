@@ -1,20 +1,20 @@
 Words:
 
-date - свидание
-wierd - странно
-tie - завязывать
-familiar - знакомый, похожий
-decision - решение
-horrible - ужасный
-suppose - предполагать
-that's it - и все
-honest - честно
-spit on - плевать на
-although - однако, хотя
-thats how - вот как, таким образом
-unless - только если
-hangover - похмелье
-sophisticated - утонченный, сложный
+date - "СЃРІРёРґР°РЅРёРµ"
+wierd - СЃС‚СЂР°РЅРЅРѕ
+tie - Р·Р°РІСЏР·С‹РІР°С‚СЊ
+familiar - Р·РЅР°РєРѕРјС‹Р№, РїРѕС…РѕР¶РёР№
+decision - СЂРµС€РµРЅРёРµ
+horrible - СѓР¶Р°СЃРЅС‹Р№
+suppose - РїСЂРµРґРїРѕР»Р°РіР°С‚СЊ
+that's it - Рё РІСЃРµ
+honest - С‡РµСЃС‚РЅРѕ
+spit on - РїР»РµРІР°С‚СЊ РЅР°
+although - РѕРґРЅР°РєРѕ, С…РѕС‚СЏ
+thats how - РІРѕС‚ РєР°Рє, С‚Р°РєРёРј РѕР±СЂР°Р·РѕРј
+unless - С‚РѕР»СЊРєРѕ РµСЃР»Рё
+hangover - РїРѕС…РјРµР»СЊРµ
+sophisticated - СѓС‚РѕРЅС‡РµРЅРЅС‹Р№, СЃР»РѕР¶РЅС‹Р№
 
 
 
@@ -23,19 +23,19 @@ sophisticated - утонченный, сложный
 
 Phrases:
 
-in my case - в моем случаи
-it matters - это важно
-all of a sudden  - вдруг
-i wish i could, but i dont want to - я бы хотел, только неохота
-how did you get through it - как ты с этим справился
-it doesn't make much of a difference - Это не имеет большого значения(никто и не заметит)
-stay out of - держись подальше от 
+in my case - РІ РјРѕРµРј СЃР»СѓС‡Р°Рё
+it matters - СЌС‚Рѕ РІР°Р¶РЅРѕ
+all of a sudden  - РІРґСЂСѓРі
+i wish i could, but i dont want to - СЏ Р±С‹ С…РѕС‚РµР», С‚РѕР»СЊРєРѕ РЅРµРѕС…РѕС‚Р°
+how did you get through it - РєР°Рє С‚С‹ СЃ СЌС‚РёРј СЃРїСЂР°РІРёР»СЃСЏ
+it doesn't make much of a difference - Р­С‚Рѕ РЅРµ РёРјРµРµС‚ Р±РѕР»СЊС€РѕРіРѕ Р·РЅР°С‡РµРЅРёСЏ(РЅРёРєС‚Рѕ Рё РЅРµ Р·Р°РјРµС‚РёС‚)
+stay out of - РґРµСЂР¶РёСЃСЊ РїРѕРґР°Р»СЊС€Рµ РѕС‚ 
 
-i'm trained for nothing - я ничего не умею
-i was laughed out - надо мной посмеялись, был осмеян
-being on your own - самостоятельно
-split it up - разделить
-you probably didn't know this - возможно ты не знал
+i'm trained for nothing - СЏ РЅРёС‡РµРіРѕ РЅРµ СѓРјРµСЋ
+i was laughed out - РЅР°РґРѕ РјРЅРѕР№ РїРѕСЃРјРµСЏР»РёСЃСЊ, Р±С‹Р» РѕСЃРјРµСЏРЅ
+being on your own - СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ
+split it up - СЂР°Р·РґРµР»РёС‚СЊ
+you probably didn't know this - РІРѕР·РјРѕР¶РЅРѕ С‚С‹ РЅРµ Р·РЅР°Р»
 
 
 
