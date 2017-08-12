@@ -74,6 +74,8 @@ polite - вежливый
 dry - сухой
 enveloping - окружающий
 to drown - тонуть
+remote - дистанционный пульт(remotely - удаленно)
+obviously - очевидно, видимо
 
 
 
@@ -102,6 +104,7 @@ bring down - расстраивать
 he is considered like most popular man - Он считается самым популярным человеком
 as far as i concerned - насколько я знаю
 proud of it - горжусь этим
+as much as you are - так же как и ты
 
 
 
